@@ -21,11 +21,11 @@ const messages = {
       ],
       list_1_title: '1. Symposium Date and Format:',
       list_1: [
-        'This year\'s symposium is scheduled on <b>September 25, Friday</b>. Participants will have 10-15 min to present their research results in Chinese (with powerpoint/beamer in English) and answer the questions from the audience. The symposium will be concluded with the award of Linbridge Scholarship. The top 20% of the speakers in the symposium will be awarded the first prize, followed by the second prize to the next 30% of the participants. For all the other 50% participants will be awarded with the Excellent prize. The main award criteria are scientific contents, research meaning and the scientific presenting skills.'
+        'This year\'s symposium is scheduled on <b>September 26, Friday</b>. Participants will have 10-15 min to present their research results in Chinese (with powerpoint/beamer in English) and answer the questions from the audience. The symposium will be concluded with the award of Linbridge Scholarship. The top 20% of the speakers in the symposium will be awarded the first prize, followed by the second prize to the next 30% of the participants. For all the other 50% participants will be awarded with the Excellent prize. The main award criteria are scientific contents, research meaning and the scientific presenting skills.'
       ],
       bannerText: [
         '2025 PKU Undergraduate Astronomy Symposium',
-        'September 26 - xx , 2025'
+        'September 26 , 2025'
       ],
       list_2_title: '2. Participation Criteria:',
       list_2: [
@@ -45,9 +45,9 @@ const messages = {
       content: [
         'Registration for the 2025 PKU Undergraduate Astronomy Symposium',
         ['Symposium Homepage:', 'https://undersymp25.kiaa-pku.cn'],
-        'Symposium Date and Time: September 26, 2025, XX:XX - XX:XX',
+        'Symposium Date and Time: September 26, 2025, 13:00 - 19:10',
         'Meeting platform: Tencent Meeting',
-        'Registration Period: XX, 2025 to September 5th, 2025',
+        'Registration Period: July 30th, 2025 to September 5th, 2025',
         ['Registration Website:', 'https://www.wjx.top/vm/ekxIk52.aspx'],
         'Registration QR Code:',
       ],
@@ -124,7 +124,7 @@ const messages = {
         '3. 准备报告ppt（ppt用英文，报告用中文），报告时长在10分钟左右（暂定，以后续通知为准）。',
         '4. 注册后，请留意后续的邮件通知。'
       ],
-      bannerText: ['2025年北京大学本科生天文学术研讨会', '2025年9月26日 至 9月xx日'],
+      bannerText: ['2025年北京大学本科生天文学术研讨会', '2025年9月26日'],
     },
     schedule: {
       subTitle: '初步日程',
@@ -139,9 +139,9 @@ const messages = {
       content: [
         '2025 北京大学本科生天文学研讨会注册',
         ['研讨会主页：', 'https://undersymp25.kiaa-pku.cn'],
-        '研讨会时间：2025年9月26日，XX:XX - XX:XX',
+        '研讨会时间：2025年9月26日，13:00 - 19:10',
         '会议平台：腾讯会议',
-        '注册时间：2025年XX月至9月5日',
+        '注册时间：2025年7月30日至9月5日',
         ['注册网站：', 'https://www.wjx.top/vm/ekxIk52.aspx'],
         '注册二维码：'
       ],
